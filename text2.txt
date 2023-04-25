@@ -1,3 +1,12 @@
 Hacking is the act of compromising
 digital devices and networks by gaining
 unauthorized access to an account or computer system.
+
+Ethical hacking refers to the actions carried out by
+white hat security hackers. It involves gaining access
+to computer systems and networks to test for potential
+vulnerabilities, and then fixing any identified weaknesses.
+Using these technical skills for ethical hacking purposes is
+legal, provided the individual has written permission from
+the system or network owner, protects the organization’s privacy,
+and reports all weaknesses they find to the organization and its vendors.
